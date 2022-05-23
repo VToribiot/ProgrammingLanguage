@@ -1,1 +1,2 @@
-This is a test text for the Programming Language Activity
+This is part 2 of the message. Now is reading time
+Now this is written directly into the file, let see how it goes
